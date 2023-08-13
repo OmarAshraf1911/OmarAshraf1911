@@ -4,16 +4,14 @@
 </p> 
 <br/>
 <br/>
-full stack developer
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
-
 <h3>🚀 About Me</h3> 
 <h4> I'm Omar Ashraf from Alexandry. I am a student in the Faculty of Computers & Artificial Intelligence, Banha Univeristy.</h4>
 
 
 	
 
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
 ### Languages and Tools 🛠 : 
 
@@ -29,7 +27,7 @@ full stack developer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarashraf.hegab?mibextid=ZbWKwL)
@@ -39,4 +37,18 @@ full stack developer
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01030116272)
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
+
+<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAshraf1911&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="OmarAshraf1911" />
+</p>
+
+<p align="center">      
+<a href="https://github.com/OmarAshraf1911">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=gruvbox&hide_border=true" />
+</a>
+</p>
 
