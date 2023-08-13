@@ -5,7 +5,7 @@
 <br/>
 <br/>
 full stack developer
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Omar Ashraf from Alexandry. I am a student in the Faculty of Computers & Artificial Intelligence, Banha Univeristy.</h4>
