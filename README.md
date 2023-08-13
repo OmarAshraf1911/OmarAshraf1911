@@ -1,5 +1,4 @@
 <h1 align="center">👋 My Name is Omar, Welcome To My Github Profile.</h1>
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <br/>
 <br/>
 
