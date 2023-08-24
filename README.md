@@ -30,7 +30,7 @@
 <br />
 
 <a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=100% align="center" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
 </a>
 <br />
 <br />
@@ -39,7 +39,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
 <a href="https://github.com/OmarAshraf1911">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45% height="350" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
 <br />
 <br />
