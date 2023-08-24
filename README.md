@@ -36,10 +36,10 @@
 <br />
 
 <a href="https://github.com/OmarAshraf1911">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=50%/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
 <a href="https://github.com/OmarAshraf1911">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=50% height="350" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45% height="350" />
 </a>
 <br />
 <br />
