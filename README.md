@@ -37,6 +37,8 @@
 <a href="https://github.com/OmarAshraf1911">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" height="250 />
 </a>
+    
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
 <a href="https://github.com/OmarAshraf1911">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width="500" height="350" />
@@ -44,6 +46,8 @@
 <br />
 <br />
 <a href="https://github.com/OmarAshraf1911">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
+
   
   ![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarAshraf1911&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
@@ -64,3 +68,7 @@
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarashraf.hegab?mibextid=ZbWKwL)
 
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=OmarAshraf1911&style=for-the-badge&color=blue" width="200" />
+</div>
