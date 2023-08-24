@@ -41,8 +41,10 @@
 <a href="https://github.com/OmarAshraf1911">
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
+
 <br />
 <br />
+
 <a href="https://github.com/OmarAshraf1911">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
