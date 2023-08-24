@@ -28,15 +28,17 @@
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
 <a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
 <br />
 <a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="
+    
+    " src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
 <br />
 <br />
