@@ -24,21 +24,36 @@
 
 
 
+https://github.com/OmarAshraf1911
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
 <h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarAshraf1911&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="OmarAshraf1911" />
-</p>
-
-<p align="center">      
 <a href="https://github.com/OmarAshraf1911">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=gruvbox&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
-</p>
+<br />
+<br />
+<a href="https://github.com/OmarAshraf1911">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<a href="https://github.com/OmarAshraf1911">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+</a>
+<br />
+<br />
+<a href="https://github.com/OmarAshraf1911">
+  
+  ![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarAshraf1911&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+  
+</a>
+<br />
+<br />
+
+
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
