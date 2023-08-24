@@ -33,10 +33,9 @@
 <br />
 <br />
 <a href="https://github.com/OmarAshraf1911">
-  <img align="
-    
-    " src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
+
 <a href="https://github.com/OmarAshraf1911">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width="500" />
 </a>
