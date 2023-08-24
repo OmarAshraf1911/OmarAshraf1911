@@ -45,19 +45,24 @@
 <br />
 <br />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
+
+<br />
+
 <a href="https://github.com/OmarAshraf1911">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
 ![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarAshraf1911&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 </a>
-<br />
-<br />
+<br/>
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
-<br>
+
+<br/>
 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
