@@ -5,7 +5,7 @@
 <br/>
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
 <h3>🚀 About Me</h3> 
-<h4> I'm Omar Ashraf from Alexandry. I am a student in the Faculty of Computers and Artificial Intelligence, Banha Univeristy.</h4>
+<h4> I'm Omar Ashraf from Alexandry. I am a student in the Faculty of Computers & Artificial Intelligence, Banha Univeristy.</h4>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
