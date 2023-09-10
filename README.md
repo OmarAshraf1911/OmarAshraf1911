@@ -3,8 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
 <h3>🚀 About Me</h3> 
+<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
+
 <h4> Welcome to my github profile! I am a dedicated and ambitious student at the Faculty of Computers & Artificial Intelligence - BFCAI, Banha University, with a strong passion for becoming a full-stack developer. I'm excited to leverage my skills and knowledge to contribute to the dynamic world of technology.
 
 Currently, I am honing my front-end development skills and have completed HTML and CSS, building three templates using these languages. I have also ventured into JavaScript, where I am actively expanding my proficiency. Additionally, I am well-versed in version control systems, having mastered Git and GitHub.
