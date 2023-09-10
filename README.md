@@ -4,7 +4,7 @@
 </p> 
 <br/>
 <h3>🚀 About Me</h3> 
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 350px></picture>
+<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
 <h4> Welcome to my github profile! I am a dedicated and ambitious student at the Faculty of Computers & Artificial Intelligence - BFCAI, Banha University, with a strong passion for becoming a full-stack developer. I'm excited to leverage my skills and knowledge to contribute to the dynamic world of technology.
 
