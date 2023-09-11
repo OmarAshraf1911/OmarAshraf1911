@@ -6,17 +6,17 @@
 <h3>🚀 About Me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h4> Welcome to my github profile! I am a dedicated and ambitious student at the Faculty of Computers & Artificial Intelligence - BFCAI, Banha University, with a strong passion for becoming a full-stack developer. I'm excited to leverage my skills and knowledge to contribute to the dynamic world of technology.
+<h4>I'm a dedicated and ambitious student studying at BFCAI, Banha University. My goal is to become a full-stack developer and contribute to the world of technology.
 
-Currently, I am honing my front-end development skills and have completed HTML and CSS, building three templates using these languages. I have also ventured into JavaScript, where I am actively expanding my proficiency. Additionally, I am well-versed in version control systems, having mastered Git and GitHub.
+Currently, I'm focusing on front-end development and have proficiency in HTML, CSS, and JavaScript. I'm also skilled in Git and GitHub for version control.
 
-In my academic journey, I have explored fascinating areas such as neural networks and Natural Language Processing (NLP) using Python. I have successfully completed projects in both fields, allowing me to apply theoretical concepts to practical applications. These experiences have solidified my understanding and passion for machine learning and AI.
+During my academic journey, I've explored neural networks and Natural Language Processing (NLP) using Python. Hands-on projects have strengthened my passion for machine learning and AI.
 
-Beyond my expertise in AI and machine learning, I possess a diverse range of programming languages, including C++, Python, SQL, PHP, and Assembly. This breadth of knowledge enables me to adapt to different projects and collaborate effectively in multidisciplinary teams.
+In addition to AI, I have experience in C++, Python, SQL, PHP, and Assembly. This diverse skill set enables me to adapt and collaborate effectively.
 
-As I continue to expand my skill set and knowledge, I am eager to connect with industry professionals, mentors, and potential employers who share my enthusiasm for technology and its transformative impact. I am open to exciting opportunities that will allow me to contribute my skills as a full-stack developer and further develop my expertise.
+I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. Open to exciting opportunities to contribute as a full-stack developer.
 
-Thank you for visiting my profile, and I welcome the opportunity to connect with like-minded professionals in the field. Let's connect and explore how we can collaborate and drive innovation together!</h4>
+Thank you for visiting my profile! Let's connect and drive innovation together!</h4>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
