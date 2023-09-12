@@ -6,7 +6,7 @@
 <h3>🚀 About me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h4>I'm a dedicated and ambitious student studying at BFCAI, Banha University. My goal is to become a full-stack developer and contribute to the world of technology.
+<h4>I'm an ambitious student studying at BFCAI, Banha University. My goal is to become a full-stack developer and contribute to the world of technology.
 
 Currently, I'm focusing on front-end development and have proficiency in HTML, CSS, and JavaScript. I'm also skilled in Git and GitHub for version control.
 
