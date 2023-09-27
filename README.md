@@ -1,4 +1,4 @@
-<h1 align="center">👋 My Name is Omar Aseaf, Welcome To My Github Profile.</h1>
+<h1 align="center">👋 My Name is Omar Asheaf, Welcome To My Github Profile.</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
