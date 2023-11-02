@@ -6,17 +6,24 @@
 <h3>🚀 About me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h4>I'm an ambitious student studying at BFCAI, Banha University. My goal is to become a full-stack developer and contribute to the world of technology.
+<h4>
 
-Currently, I'm focusing on front-end development and have proficiency in HTML, CSS, and JavaScript. I'm also skilled in Git and GitHub for version control.
+Hello! I'm Omar Ashraf, a passionate student at BFCAI, Banha University, with a strong aspiration to become a full-stack developer and make a positive impact in the world of technology.
 
-During my academic journey, I've explored neural networks and Natural Language Processing (NLP) using Python. Hands-on projects have strengthened my passion for machine learning and AI.
+🚀 **Tech Stack**: I'm currently focused on front-end development and have expertise in HTML, CSS, and JavaScript. I'm also well-versed in version control using Git and GitHub.
 
-In addition to AI, I have experience in C++, Python, SQL, PHP, and Assembly. This diverse skill set enables me to adapt and collaborate effectively.
+🧠 **AI Enthusiast**: Throughout my academic journey, I've delved into the fascinating world of artificial intelligence, particularly in neural networks and Natural Language Processing (NLP) using Python. Working on hands-on projects in this domain has deepened my passion for machine learning and AI and have now embarked on learning embedded systems and image processing.
 
-I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. Open to exciting opportunities to contribute as a full-stack developer.
+💻 **Diverse Skill Set**: In addition to AI, I have a versatile skill set that includes C++, Python, SQL, PHP, and Assembly. This diversity allows me to adapt and collaborate effectively in a wide range of projects and challenges.
 
-Thank you for visiting my profile! Let's connect and drive innovation together!</h4>
+🌟 **Seeking Connections**: I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. I believe in the power of collaboration and learning from experienced individuals.
+
+🔭 **Current Focus**: I've successfully completed the 4 templates in my full-stack journey. I'm excited about the endless possibilities these fields offer and look forward to contributing to innovative projects.
+
+🌐 **Open to Opportunities**: I'm open to exciting opportunities to contribute as a full-stack developer, so if you have a project or idea in mind, let's connect and explore how we can drive innovation together!
+
+Thank you for visiting my profile. Feel free to connect and reach out. Let's learn, create, and innovate together! 
+</h4>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
