@@ -47,28 +47,28 @@ Thank you for visiting my profile. Feel free to connect and reach out. Let's lea
 <br />
 <br />
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
+<p align="center">
+  <a href="https://github.com/OmarAshraf1911">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=radical&border=7F3FBF&background=0D1117" alt="Omar's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/OmarAshraf1911">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarAshraf1911&theme=radical" alt="Omar's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+   <a href="https://github.com/OmarAshraf1911"> <img alt="Omar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/OmarAshraf1911">
+    <img alt="Omar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/> 
+  </a>
+  <br/>
 </a>
-<br />
-<br />
+<br>
+<br>
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
-</a>
-<a href="https://github.com/OmarAshraf1911">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
-</a>
-
-<br />
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
-
-<br />
-
-<a href="https://github.com/OmarAshraf1911">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
 ![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarAshraf1911&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
@@ -94,3 +94,5 @@ Thank you for visiting my profile. Feel free to connect and reach out. Let's lea
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=OmarAshraf1911&style=for-the-badge&color=blue" width="200" />
 </div>
+
+
