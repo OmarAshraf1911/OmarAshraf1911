@@ -94,3 +94,6 @@ Thank you for visiting my profile. Feel free to connect and reach out. Let's lea
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=OmarAshraf1911&style=for-the-badge&color=blue" width="200" />
 </div>
+
+
+[![wakatime](https://wakatime.com/badge/user/018bb85b-3e32-4462-9f4e-da5bdc23d1a4/project/018bb85f-5c1a-4679-8b0f-bbfb3838d768.svg?color=1CA2F1)](https://wakatime.com/badge/user/018bb85b-3e32-4462-9f4e-da5bdc23d1a4/project/018bb85f-5c1a-4679-8b0f-bbfb3838d768)
