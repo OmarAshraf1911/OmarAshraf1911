@@ -6,7 +6,7 @@
 <h3>🚀 About me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h4 style="color:white">
+<h4 style="color: white;">
 
 Hello! I'm Omar Ashraf, a passionate student at BFCAI, Banha University, with a strong aspiration to become a full-stack developer and make a positive impact in the world of technology.
 
