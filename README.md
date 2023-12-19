@@ -97,3 +97,14 @@ Thank you for visiting my profile. Feel free to connect and reach out. Let's lea
 </div>
 
 
+
+
+
+
+![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmarAshraf1911&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+  
+</a>
+<br/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
