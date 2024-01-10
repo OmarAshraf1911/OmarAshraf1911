@@ -18,7 +18,7 @@ Hello! I'm Omar Ashraf, a passionate student at BFCAI, Banha University, with a 
 
 🌟 **Seeking Connections**: I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. I believe in the power of collaboration and learning from experienced individuals.
 
-🔭 **Current Focus**: I've successfully completed the 4 templates in my full-stack journey. I'm excited about the endless possibilities these fields offer and look forward to contributing to innovative projects.
+🔭 **Current Focus**: I've successfully completed the 4 templates (HTML & CSS) in my full-stack journey. I'm excited about the endless possibilities these fields offer and look forward to contributing to innovative projects.
 
 🌐 **Open to Opportunities**: I'm open to exciting opportunities to contribute as a full-stack developer, so if you have a project or idea in mind, let's connect and explore how we can drive innovation together!
 
