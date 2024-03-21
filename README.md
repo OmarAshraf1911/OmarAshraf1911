@@ -4,7 +4,7 @@
 </p> 
 <br/>
 <h3 style="color: white;">🚀 About me</h3> 
-<picture> <img align="right" src="image/logo.jpeg" width = 345px></picture>
+<picture> <img align="right" src="image/logo.jpeg" width = 345px height=280px ></picture>
 
 <h4 style="color: white;">
 
