@@ -1,6 +1,6 @@
 <h1 align="center" style="color: white;">👋 My Name is Omar Ashraf , Welcome To My Github Profile.</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20stack%20developer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer%20With React;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
 <h3 style="color: white;">🚀 About me</h3> 
@@ -8,22 +8,21 @@
 
 <h4 style="color: white;">
 
-Hello! I'm Omar Ashraf, a passionate student at BFCAI, Banha University, with a strong aspiration to become a full-stack developer and make a positive impact in the world of technology.
+Hello! I'm Omar Ashraf, a passionate graduate from BFCAI, Banha University, with a strong aspiration to become a full-stack developer and make a positive impact in the world of technology.
 
-🚀 **Tech Stack**: I'm currently focused on front-end development and have expertise in HTML, CSS, and JavaScript. I'm also well-versed in version control using Git and GitHub.
+🚀 Tech Stack: I specialize in front-end development with expertise in HTML, CSS, JavaScript, and React. I also have experience using Tailwind CSS and Pug.js to create dynamic and responsive web applications.
 
-🧠 **AI Enthusiast**: Throughout my academic journey, I've delved into the fascinating world of artificial intelligence, particularly in neural networks and Natural Language Processing (NLP) using Python. Working on hands-on projects in this domain has deepened my passion for machine learning and AI and have now embarked on learning embedded systems and image processing.
+🧠 AI Enthusiast: Throughout my academic journey, I've delved into the fascinating world of artificial intelligence, particularly in neural networks and Natural Language Processing (NLP) using Python. Working on hands-on projects in this domain has deepened my passion for machine learning and AI. I have also embarked on learning embedded systems and image processing.
 
-💻 **Diverse Skill Set**: In addition to AI, I have a versatile skill set that includes C++, Python, SQL, PHP, and Assembly. This diversity allows me to adapt and collaborate effectively in a wide range of projects and challenges.
+💻 Diverse Skill Set: In addition to AI, I have a versatile skill set that includes C++, Python, SQL, PHP, and Assembly. This diversity allows me to adapt and collaborate effectively on a wide range of projects and challenges.
 
-🌟 **Seeking Connections**: I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. I believe in the power of collaboration and learning from experienced individuals.
+🌟 Seeking Connections: I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. I believe in the power of collaboration and learning from experienced individuals.
 
-🔭 **Current Focus**: I've successfully completed the 4 templates (HTML & CSS) in my full-stack journey. I'm excited about the endless possibilities these fields offer and look forward to contributing to innovative projects.
+🔭 Current Focus: I've successfully completed 4 templates using HTML and CSS as part of my full-stack journey. I'm excited about the endless possibilities in these fields and look forward to contributing to innovative projects. I have also developed several projects using React.
 
-🌐 **Open to Opportunities**: I'm open to exciting opportunities to contribute as a full-stack developer, so if you have a project or idea in mind, let's connect and explore how we can drive innovation together!
+🌐 Open to Opportunities: I'm open to exciting opportunities to contribute as a front-end developer with a focus on React. If you have a project or idea in mind, let's connect and explore how we can drive innovation together!
 
 Thank you for visiting my profile. Feel free to connect and reach out. Let's learn, create, and innovate together!
-
 </h4>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
