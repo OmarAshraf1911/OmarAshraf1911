@@ -6,24 +6,34 @@
 <h3 style="color: white;">🚀 About me</h3> 
 <picture> <img align="right" src="image/logo.jpeg" width = 345px height=280px ></picture>
 
-<h4 style="color: white;">
+<div style="color: white; font-family: Arial, sans-serif; line-height: 1.6;">
+  <h4>👋 Hello!</h4>
+  <p>
+    I’m Omar Ashraf, a graduate from BFCAI, Banha University, aspiring to become a full-stack developer and make a meaningful impact in technology.
+  </p>
 
-Hello! I'm Omar Ashraf, a passionate graduate from BFCAI, Banha University, with a strong aspiration to become a full-stack developer and make a positive impact in the world of technology.
+  <h4>🚀 Skills & Expertise:</h4>
+  <ul>
+    <li>🌐 <strong>Front-End Development:</strong> Proficient in HTML, CSS, JavaScript, React, Tailwind CSS, and Pug.js.</li>
+    <li>💻 <strong>Back-End & Full-Stack Focus:</strong> Expanding skills with Next.js and MongoDB.</li>
+    <li>🧠 <strong>AI & ML Projects:</strong> Experienced in neural networks, NLP, and machine learning.</li>
+    <li>🔧 <strong>Diverse Tech Stack:</strong> Skilled in C++, Python, SQL, PHP, and Assembly.</li>
+  </ul>
 
-🚀 Tech Stack: I specialize in front-end development with expertise in HTML, CSS, JavaScript, and React. I also have experience using Tailwind CSS and Pug.js to create dynamic and responsive web applications.
+  <h4>🏆 Key Projects:</h4>
+  <ul>
+    <li>🎬 <strong>Cinemate API:</strong> A movie platform with advanced filtering and user reviews.</li>
+    <li>📱 <strong>3D iPhone Model:</strong> Interactive visualization using Three.js.</li>
+    <li>🛒 <strong>Ecommerce App:</strong> Product filtering, dark mode, and a dashboard.</li>
+    <li>🤖 <strong>AI-based Projects:</strong> Sign language translator and image processing applications.</li>
+  </ul>
 
-🧠 AI Enthusiast: Throughout my academic journey, I've delved into the fascinating world of artificial intelligence, particularly in neural networks and Natural Language Processing (NLP) using Python. Working on hands-on projects in this domain has deepened my passion for machine learning and AI. I have also embarked on learning embedded systems and image processing.
+  <h4>🔭 Current Focus:</h4>
+  <p>
+    🌟 Building innovative projects and collaborating on front-end development opportunities, particularly in React.
+  </p>
+</div>
 
-💻 Diverse Skill Set: In addition to AI, I have a versatile skill set that includes C++, Python, SQL, PHP, and Assembly. This diversity allows me to adapt and collaborate effectively on a wide range of projects and challenges.
-
-🌟 Seeking Connections: I'm eager to connect with industry professionals and mentors who share my enthusiasm for technology. I believe in the power of collaboration and learning from experienced individuals.
-
-🔭 Current Focus: I've successfully completed 4 templates using HTML and CSS as part of my full-stack journey. I'm excited about the endless possibilities in these fields and look forward to contributing to innovative projects. I have also developed several projects using React.
-
-🌐 Open to Opportunities: I'm open to exciting opportunities to contribute as a front-end developer with a focus on React. If you have a project or idea in mind, let's connect and explore how we can drive innovation together!
-
-Thank you for visiting my profile. Feel free to connect and reach out. Let's learn, create, and innovate together!
-</h4>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
